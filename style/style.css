@@ -1,0 +1,26 @@
+body {
+    background-color: orchid;
+    align-items: center;
+    padding-top: 100px;
+    padding-left: 200px;
+    padding-right: 10px;
+}
+
+.heading {
+    text-decoration: underline;
+}
+
+.container {
+    padding-top: 20px;
+
+    justify-content: center;
+    color: white;
+    width: 35rem;
+    height: 20rem;
+    background-color: orchid;
+    text-align: center;
+    align-items: center;
+}
+h4{
+    text-decoration: underline;
+}
